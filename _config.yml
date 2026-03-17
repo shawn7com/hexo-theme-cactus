@@ -75,6 +75,8 @@ archive:
 #   - show_updated: show the last modification date.
 post:
   show_updated: false
+  # Whether to show the share button in post actions (desktop + mobile).
+  share: true
 
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
